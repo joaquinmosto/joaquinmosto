@@ -34,8 +34,8 @@
  
   </div>
 <br>
- <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
- <img align="right" alt="Yoda-gif" height="120" style="border-radius:50px;"  src="https://i0.wp.com/media0.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
+ 
+ <img align="right" alt="Yoda-gif" height="120" style="border-radius:50px;"  src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
   
   ##
   
