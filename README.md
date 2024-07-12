@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Soy Tecnico en Informatica y actualmente estoy en la carrera de Certified Tech Developer. 
-- 😄 Me gusta mucho aprender cosas nuevas y pasar tiempo en mi PC
+- 🌱 Soy Tecnico en Informatica y actualmente soy desarrollador Back end con Java y Springboot. 
+- 😄 Me encanta afrentarme a nuevos desafios y aprender cosas nuevas
 
 <div align="center">
   <a href="https://github.com/joaquinmosto">
@@ -14,37 +14,23 @@
   ### STACK
 
   
-<div style="display: inline_block"><br>
-  
+<div style="display: inline_block"><br>  
   <img align="center" alt="Joa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Joa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Joa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Joa-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
-  
-  <img align="center" alt="Joa-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Joa-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Joa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Joa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Joa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Joa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- 
-
-  
- 
-  </div>
+</div>
 <br>
- 
- <img align="right" alt="Gif" height="120" style="border-radius:50px;"  src="https://i.kym-cdn.com/photos/images/newsfeed/001/372/654/fe5.gif">
-  
+  <img align="right" alt="Gif" height="120" style="border-radius:50px;"  src="https://i.kym-cdn.com/photos/images/newsfeed/001/372/654/fe5.gif">
   ##
-  
-  <div> 
-  
-  <a href="https://www.instagram.com/bazzani_joakoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "joaquinmosto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaquín-mosto-54716521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
+<div> 
+    <a href="https://www.instagram.com/bazzani_joakoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "joaquinmosto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joaquín-mosto-54716521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
